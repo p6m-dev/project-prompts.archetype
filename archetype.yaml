@@ -1,0 +1,9 @@
+---
+description: "Project Prompts Archetype"
+authors: ["Jimmie Fulton"]
+languages: []
+frameworks: []
+tags: []
+
+requires:
+  archetect: "2.0.0-ALPHA.11"
